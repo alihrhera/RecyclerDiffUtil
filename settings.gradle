@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "RecyclerDiffUtil"
 include ':app'
+include ':expand_row'
